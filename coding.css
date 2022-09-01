@@ -1,0 +1,28 @@
+.dummy{
+    height: 100px;
+    width: 1500px;
+    border:10px solid black;
+    display:flex;
+    position:fixed;
+    /* margin: 100px; */
+    /* margin-left: 400px; */
+}
+.one{
+    width:500px;
+    height:100px;
+    background-color:lightgreen;
+    font-size:40px;
+ 
+}
+.two{
+    width:500px;
+    height:100px;
+    background-color:green;
+    font-size:40px;
+}
+.three{
+    width:500px;
+    height:100px;
+    background-color:lightseagreen;
+    font-size:40px;
+}
